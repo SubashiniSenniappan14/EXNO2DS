@@ -73,5 +73,6 @@ plt.show()
 Output:
 image
 
-RESULT
+RESULT:
+
 I cleaned the dataset by checking for missing values and removing outliers using IQR. I performed visual and statistical EDA using boxplots, countplots, displot, crosstab, and heatmap to understand variable distributions and
